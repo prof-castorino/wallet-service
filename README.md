@@ -29,7 +29,7 @@ A simple microservice for managing user wallets, supporting deposit, withdraw, t
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 wallet/
 ├── src/
 │ ├── main/
@@ -50,3 +50,4 @@ wallet/
 ├── docker-compose.yml
 ├── pom.xml
 └── README.md
+```
