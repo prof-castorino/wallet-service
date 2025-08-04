@@ -33,8 +33,8 @@ A simple microservice for managing user wallets, supporting deposit, withdraw, t
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wallet-service.git
-cd wallet-service
+git clone https://github.com/prof-castorino/wallet-service.git
+cd wallet-service/wallet
 ``` 
 2. **Build and run the Docker containers:**
 
